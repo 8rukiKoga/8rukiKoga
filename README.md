@@ -14,7 +14,7 @@
 後者の方について加えますと、大学1年生の頃に始めたサイト運営を通してITの世界に興味を持ち、大学3年生の頃からアプリ開発を始めました。
 現時点では、3つのアプリをリリースしております。（2022.12）
 
-最近は、アプリ開発はもちろん、Pythonでシステム開発なども行っています。
+最近は、アプリ開発はもちろん、Web開発なども行っています。
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/8rukiKoga) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@harukikoga6133) 
