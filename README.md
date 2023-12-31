@@ -5,16 +5,7 @@
 
 # 💫 About Me:
 
-古賀遥貴と申します。
-私は現在、
-- 国際文化学を学ぶ学生
-- iOSデベロッパ
-として活動しています。
-
-後者の方について加えますと、大学1年生の頃に始めたサイト運営を通してITの世界に興味を持ち、大学3年生の頃からアプリ開発を始めました。
-現時点では、3つのアプリをリリースしております。（2022.12）
-
-最近は、アプリ開発はもちろん、Web開発なども行っています。
+Web・モバイルのアプリ開発をしています。
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/8rukiKoga) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@harukikoga6133) 
